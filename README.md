@@ -4,7 +4,7 @@
 
 ## Build the docker image.
 
-docker build -t first-node-app .
+Open the terminal/command prompt and run docker build -t first-node-app .
 
 ## Run the docker container
 
