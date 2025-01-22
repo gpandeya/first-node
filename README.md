@@ -10,4 +10,5 @@ docker build -t first-node-app .
 
 docekr run first-node-app
 
-## When command is run, notice the statement on terminal.
+## Verify result.
+When command is run, notice the statement on terminal.
